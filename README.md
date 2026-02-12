@@ -1,7 +1,8 @@
 # CODE_pick
+**Основной стек инструментов:** Python (NumPy, SciPy, matplotlib, segyio, tkinter).
+
 Приложение для отметки пиков/первых вступлений в SEG-Y файлах
 *Анализатор SEG-Y файлов. Отметка пиков — Функционал*
-**Основной стек инструментов:** Python (NumPy, SciPy, matplotlib, segyio, tkinter).
 
 **Загрузка и подготовка данных**
 
